@@ -7,7 +7,7 @@
 
 function Hello(){
     return <div>
-        <h1>Hello From Component ! </h1> <h1>wow</h1>
+        <h1>Hello Mike</h1>
     </div>
 }
 
